@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+h1 {
+  color: #f8d410;
+  font-size: 40px;
+}
+#btns {
+  margin: 20px;
+}
+#btn {
+   margin-right:4px;
+  font-size:20px;
+}
+#btn:hover {
+  cursor: pointer;
+}
+#txt {
+  height: 18em;
+  width: 38.7em;
+}
+footer {
+  position: relative;
+  top: 100px;
+  bottom: 0px;
+}
+a {
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+p{
+  font-size:10px;
+  text-align:right;
+}
