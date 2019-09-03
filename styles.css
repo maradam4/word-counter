@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  font-family: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 h1 {
   color: #f8d410;
